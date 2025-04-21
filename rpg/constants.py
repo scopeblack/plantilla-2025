@@ -20,7 +20,7 @@ BOTTOM_VIEWPORT_MARGIN = 300
 TOP_VIEWPORT_MARGIN = 300
 
 # What map, and what position we start at
-STARTING_MAP = "main_map"
+STARTING_MAP = "prehistoric_map"
 STARTING_X = 33
 STARTING_Y = 16
 
